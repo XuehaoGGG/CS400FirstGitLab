@@ -1,5 +1,8 @@
 /*
  *	Color class
+ *	Author: Xuehao Gao
+ *	Email: xgao295@wisc.edu
+ *	CS Login: xuehao
  */
 public class Color{
 	private String color;

@@ -1,5 +1,9 @@
 /*
+ * Main.java
  * Test the use of the Color method
+ * Author: Xuehao Gao
+ * Email: xgao295@wisc.edu
+ * CS Login: xuehao
  */
 import java.util.*;
 
